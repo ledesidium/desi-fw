@@ -26,6 +26,10 @@ li {
     font-size: 20px;
 }
 
+.text-nav {
+    display: inline;
+}
+
 li > i {
     font-size: 1.2em;
     width: 1.2em;
@@ -37,8 +41,9 @@ li > i:first-of-type {
     width: 1.2em;
 }
 
-nav > ul > li > a > i {
+nav > ul > li > i {
     font-size: 1.2em;
+    float: left;
 }
 
 li > a > i {
