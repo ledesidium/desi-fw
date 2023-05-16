@@ -48,28 +48,37 @@ li > a > i {
     font-size: 1em;
 }
 
-.social-menu {
+h2 > i {
+    padding-left: 0.75em;
+    margin-right: 0.5em;
+}
+
+.social-menu,
+.skills-menu {
     display: flex;
 }
 
-.social-links {
+.social-links,
+.skills-icons {
     display: flex;
 }
 
-.social-links > li > a > i {
+.social-links > li > a > i,
+.skills-icons > li > a > i {
     margin-right: 0.5em;
     list-style: none;
     font-size: 2em;
     text-align: center;
-    transition: 0.7s;
+    transition: 0.75s;
     padding: 0.2em;
 }
 
-.social-links > li > a > i:hover {
+.social-links > li > a > i:hover,
+.skills-icons > li > a > i:hover {
     color: #0e1111;
     background-color: #fbfaf5;
     border-radius: 0.2em;
-    transform: translate(0, -10%);
+    transform: translate(0, -15%);
 }
 
 footer {
