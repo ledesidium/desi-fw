@@ -115,6 +115,43 @@ footer {
     color: #fbfaf5;
 }
 
+.skills-icons > li > a > .fa-html5 {
+    color: #f06529;
+}
+
+.skills-icons > li > a > .fa-css3-alt {
+    color: #2965f1;
+}
+.skills-icons > li > a > .fa-square-js {
+    color: #f7df1e;
+}
+.skills-icons > li > a > .fa-git-alt {
+    color: #f1502f;
+}
+
+.social-icons > li > a > .fa-github {
+    color: #4078c0;
+}
+.social-icons > li > a > .fa-twitter {
+    color: #00acee;
+}
+.social-icons > li > a > .fa-codepen {
+    color: #fbfaf5;
+}
+.social-icons > li > a > .fa-telegram {
+    color: #0088cc;
+}
+.social-icons > li > a > .fa-instagram {
+    color: #fbfaf5;
+}
+
+.social-icons > li > a > .fa-discord {
+    color: #5865f2;
+}
+.social-icons > li > a > .fa-spotify {
+    color: #1db954;
+}
+
 .skills-icons > li > a > .fa-html5:hover {
     background-color: #f06529;
 }
