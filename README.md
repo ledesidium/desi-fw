@@ -10,10 +10,10 @@ Hola!&nbsp;&nbsp;&nbsp;![](https://github.com/ledesidium/desi-portfolio/blob/mai
 ### Skills
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ledesidium/desi-portfolio/9ffdd5bb9e8c3d308254548565e9f0e8609c9530/img/social/html5-color.svg" alt="html5" width="40" height="40" alt="HTML5"/> </a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ledesidium/desi-portfolio/9ffdd5bb9e8c3d308254548565e9f0e8609c9530/img/social/css3-color.svg" alt="css3" width="40" height="40" alt="CSS3"/> </a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ledesidium/desi-portfolio/9ffdd5bb9e8c3d308254548565e9f0e8609c9530/img/social/javascript-color.svg" alt="javascript" width="40" height="40" alt="JavaScript"/> </a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/Git" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ledesidium/desi-portfolio/9ffdd5bb9e8c3d308254548565e9f0e8609c9530/img/social/git-color.svg" alt="git" width="40" height="40" alt="Git"/> </a> &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ledesidium/desi-portfolio/9ffdd5bb9e8c3d308254548565e9f0e8609c9530/img/social/html5-color.svg" alt="html5" width="40" height="40" alt="HTML5"/></a> &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ledesidium/desi-portfolio/9ffdd5bb9e8c3d308254548565e9f0e8609c9530/img/social/css3-color.svg" alt="css3" width="40" height="40" alt="CSS3"/></a> &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ledesidium/desi-portfolio/9ffdd5bb9e8c3d308254548565e9f0e8609c9530/img/social/javascript-color.svg" alt="javascript" width="40" height="40" alt="JavaScript"/></a> &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/Git" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ledesidium/desi-portfolio/9ffdd5bb9e8c3d308254548565e9f0e8609c9530/img/social/git-color.svg" alt="git" width="40" height="40" alt="Git"/></a> &nbsp;
 </p>
 
 ### Enlaces
