@@ -10,6 +10,18 @@ h2 {
     padding-left: 0.5em;
 }
 
+.skills > hr {
+    margin-left: 1.9em;
+    margin-top: -0.7em;
+    width: 6.5em;
+}
+
+.socials > hr {
+    margin-left: 1.9em;
+    margin-top: -0.7em;
+    width: 8.7em;
+}
+
 .nonbinary-symbol {
     display: inline-flex;
     height: 1.2em;
