@@ -92,3 +92,38 @@ footer {
     text-align: end;
     color: #fbfaf5;
 }
+
+.skills-icons > li > a > .fa-html5:hover {
+    background-color: #f06529;
+}
+.skills-icons > li > a > .fa-css3-alt:hover {
+    background-color: #2965f1;
+}
+.skills-icons > li > a > .fa-square-js:hover {
+    background-color: #f7df1e;
+}
+.skills-icons > li > a > .fa-square-git:hover {
+    background-color: #f1502f;
+}
+
+.social-links > li > a > .fa-github:hover {
+    background-color: #4078c0;
+}
+.social-links > li > a > .fa-twitter:hover {
+    background-color: #00acee;
+}
+.social-links > li > a > .fa-codepen:hover {
+    background-color: #ffffff;
+}
+.social-links > li > a > .fa-telegram:hover {
+    background-color: #0088cc;
+}
+.social-links > li > a > .fa-instagram:hover {
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285aeb 90%);
+}
+.social-links > li > a > .fa-discord:hover {
+    background-color: #5865f2;
+}
+.social-links > li > a > .fa-spotify:hover {
+    background-color: #1db954;
+}
