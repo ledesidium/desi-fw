@@ -3,6 +3,8 @@ body {
     background-color: #0e1111;
     color: #fbfaf5;
     font-family: "Montserrat", sans-serif;
+    font-size: 24px;
+    height: 100%;
 }
 
 h1,
@@ -36,6 +38,7 @@ li {
     padding-bottom: 1em;
     list-style: none;
     font-size: 20px;
+    margin-left: 0.75em;
 }
 
 .text-nav {
@@ -73,24 +76,31 @@ h2 > i {
 .social-menu,
 .skills-menu {
     display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    text-align: center;
 }
 
-.social-links,
+.social-icons,
 .skills-icons {
     display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    text-align: center;
 }
 
-.social-links > li > a > i,
+.social-icons > li > a > i,
 .skills-icons > li > a > i {
     margin-right: 0.5em;
     list-style: none;
     font-size: 2em;
     text-align: center;
+    border-radius: 0.2em;
     transition: all ease 0.75s;
     padding: 0.2em;
 }
 
-.social-links > li > a > i:hover,
+.social-icons > li > a > i:hover,
 .skills-icons > li > a > i:hover {
     color: #0e1111;
     background-color: #fbfaf5;
@@ -114,28 +124,28 @@ footer {
 .skills-icons > li > a > .fa-square-js:hover {
     background-color: #f7df1e;
 }
-.skills-icons > li > a > .fa-square-git:hover {
+.skills-icons > li > a > .fa-git-alt:hover {
     background-color: #f1502f;
 }
 
-.social-links > li > a > .fa-github:hover {
+.social-icons > li > a > .fa-github:hover {
     background-color: #4078c0;
 }
-.social-links > li > a > .fa-twitter:hover {
+.social-icons > li > a > .fa-twitter:hover {
     background-color: #00acee;
 }
-.social-links > li > a > .fa-codepen:hover {
+.social-icons > li > a > .fa-codepen:hover {
     background-color: #ffffff;
 }
-.social-links > li > a > .fa-telegram:hover {
+.social-icons > li > a > .fa-telegram:hover {
     background-color: #0088cc;
 }
-.social-links > li > a > .fa-instagram:hover {
+.social-icons > li > a > .fa-instagram:hover {
     background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285aeb 90%);
 }
-.social-links > li > a > .fa-discord:hover {
+.social-icons > li > a > .fa-discord:hover {
     background-color: #5865f2;
 }
-.social-links > li > a > .fa-spotify:hover {
+.social-icons > li > a > .fa-spotify:hover {
     background-color: #1db954;
 }
