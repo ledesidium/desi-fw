@@ -130,7 +130,7 @@ footer {
 }
 
 .social-icons > li > a > .fa-github {
-    color: #4078c0;
+    color: #fbfaf5;
 }
 .social-icons > li > a > .fa-twitter {
     color: #00acee;
@@ -166,13 +166,13 @@ footer {
 }
 
 .social-icons > li > a > .fa-github:hover {
-    background-color: #4078c0;
+    background-color: #fbfaf5;
 }
 .social-icons > li > a > .fa-twitter:hover {
     background-color: #00acee;
 }
 .social-icons > li > a > .fa-codepen:hover {
-    background-color: #ffffff;
+    background-color: #fbfaf5;
 }
 .social-icons > li > a > .fa-telegram:hover {
     background-color: #0088cc;
