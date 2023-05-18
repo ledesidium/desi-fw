@@ -36,6 +36,14 @@ p {
     width: 8.7em;
 }
 
+a {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: #fbfaf5;
+    font-weight: 600;
+}
+
 .nonbinary-symbol {
     display: inline-flex;
     height: 1.2em;
@@ -47,6 +55,8 @@ p {
 }
 
 li {
+    color: #fbfaf5;
+    text-decoration: none;
     padding-bottom: 1em;
     list-style: none;
     font-size: 20px;
