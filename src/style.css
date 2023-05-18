@@ -44,6 +44,24 @@ a {
     font-weight: 600;
 }
 
+.about-link {
+    font-style: normal;
+    text-transform: uppercase;
+    font-weight: 800;
+    padding: 0.25em;
+    background-color: rgba(251, 250, 245, 0.02);
+    border-radius: 0.2em;
+}
+
+.about-link:hover {
+    font-style: normal;
+    font-weight: 800;
+    text-transform: uppercase;
+    color: #0e1111;
+    background: linear-gradient(#fdf87f 25%, #fff 0 50%, #bf93e1 0 75%, #373737 0);
+    border-radius: 0.2em;
+}
+
 .nonbinary-symbol {
     display: inline-flex;
     height: 1.2em;
@@ -207,4 +225,41 @@ footer {
 }
 .social-icons > li > a > .fa-spotify:hover {
     background-color: #1db954;
+}
+
+.wave {
+    font-family: "Noto Color Emoji", sans-serif;
+    font-size: 1.5em;
+    animation-name: wave-animation;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    transform-origin: 70% 70%;
+    display: inline-block;
+}
+
+@keyframes wave-animation {
+    0% {
+        transform: rotate(0deg);
+    }
+    10% {
+        transform: rotate(14deg);
+    }
+    20% {
+        transform: rotate(-8deg);
+    }
+    30% {
+        transform: rotate(14deg);
+    }
+    40% {
+        transform: rotate(-4deg);
+    }
+    50% {
+        transform: rotate(10deg);
+    }
+    60% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(0deg);
+    }
 }
